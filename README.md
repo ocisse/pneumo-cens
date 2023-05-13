@@ -1,5 +1,5 @@
 # pneumo-cens
-## Source code for manuscript "The Host Adapted Fungal Pathogens of Pneumocystis Genus Utilize Genic Regional Centromeres"
+#### Source code for manuscript "The Host Adapted Fungal Pathogens of Pneumocystis Genus Utilize Genic Regional Centromeres"
 
 Cisse et al. submitted
 
