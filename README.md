@@ -4,7 +4,7 @@
  
  Preprint: https://www.biorxiv.org/content/10.1101/2023.05.12.540427v1
 
-## repo structure
+## Repo structure
 
 * /src/data/rules (snakemake rules)
 * /src/scripts
@@ -41,18 +41,12 @@
 * wtpoa-cns 0.0 (19830203)
 * pyGenomeTracks
 
-
-
-
-
 ## Authors
 Ousmane H. Cisse, <ousmane.cisse@nih.gov>
 
 
 ## Version History
 0.1
-
-## License
 
 ## Acknowledgments
 This study used the Office of Cyber Infrastructure and Computational Biology (OCICB) High Performance Computing (HPC) cluster at the National Institute of Allergy and Infectious Diseases (NIAID), Bethesda, MD. This study also utilized the high-performance computational capabilities of the Biowulf Linux cluster at the NIH, Bethesda, MD (http://biowulf.nih.gov)
