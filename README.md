@@ -4,6 +4,12 @@
  
  Preprint: https://www.biorxiv.org/content/10.1101/2023.05.12.540427v1
 
+## repo structure
+
+* /src/data/rules (snakemake rules)
+* /src/scripts
+* /src/tools (external tools that cannot be installed via conda)
+
 
 ## External tools
 
@@ -36,10 +42,6 @@
 
 
 
-## repo structure
-
-
-* /src/data/rules (snakemake rules)
 
 
 ## Authors
