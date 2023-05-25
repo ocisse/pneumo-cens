@@ -1,4 +1,4 @@
-## Source code for Pneumocystis centromeres manucript (submitted)
+## Source code for Pneumocystis centromeres manucript
 
  "The Host Adapted Fungal Pathogens of Pneumocystis Genus Utilize Genic Regional Centromeres"
  
